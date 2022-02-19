@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VKhailenko
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analytics, ML
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently developing ML and AI models
+- 💞️ I’m looking to collaborate on Data Science projects, ML and Ai
 - 📫 How to reach me vkhailenko@gmail.com
 
 <!---

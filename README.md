@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VKhailenko
+- 👋 Hi, I’m Viktor Khailenko
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently developing ML and AI models
 - 💞️ I’m looking to collaborate on Data Science projects, ML and Ai
